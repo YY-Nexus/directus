@@ -661,8 +661,8 @@ catalogs:
       specifier: 2.1.1
       version: 2.1.1
     nodemailer:
-      specifier: 7.0.5
-      version: 7.0.5
+      specifier: 7.0.7
+      version: 7.0.7
     nodemailer-mailgun-transport:
       specifier: 2.1.5
       version: 2.1.5
@@ -1216,7 +1216,7 @@ importers:
         version: 2.1.1
       nodemailer:
         specifier: 'catalog:'
-        version: 7.0.5
+        version: 7.0.7
       object-hash:
         specifier: 'catalog:'
         version: 3.0.0
@@ -2788,7 +2788,7 @@ importers:
         version: 16.11.0
       nodemailer:
         specifier: 'catalog:'
-        version: 7.0.5
+        version: 7.0.7
       openapi3-ts:
         specifier: 'catalog:'
         version: 4.5.0
@@ -10294,8 +10294,8 @@ packages:
   nodemailer-mailgun-transport@2.1.5:
     resolution: {integrity: sha512-hF7POkaxFgMvYEd5aHLaQJI2511ld+aQlQi7JH6bGjhjlZ33cIbTB9PimlIrLu5XC3z76Kde6e65OIwL9lOdTA==}
 
-  nodemailer@7.0.5:
-    resolution: {integrity: sha512-nsrh2lO3j4GkLLXoeEksAMgAOqxOv6QumNRVQTJwKH4nuiww6iC2y7GyANs9kRAxCexg3+lTWM3PZ91iLlVjfg==}
+  nodemailer@7.0.7:
+    resolution: {integrity: sha512-jGOaRznodf62TVzdyhKt/f1Q/c3kYynk8629sgJHpRzGZj01ezbgMMWJSAjHADcwTKxco3B68/R+KHJY2T5BaA==}
     engines: {node: '>=6.0.0'}
 
   nodemon@3.1.10:
@@ -22460,7 +22460,7 @@ snapshots:
       - whiskers
     optional: true
 
-  nodemailer@7.0.5: {}
+  nodemailer@7.0.7: {}
 
   nodemon@3.1.10:
     dependencies:
